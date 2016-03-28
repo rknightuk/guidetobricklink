@@ -99,3 +99,25 @@ footer .info {
 .label-next {
     background-color: #d9831f;
 }
+
+.guide-search {
+    margin-top: 20px;
+    margin-bottom: -1px;
+}
+
+.guide-search-input {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border: 1px solid #ddd;
+}
+
+.guide-search-input:focus{
+    outline: none;
+}
+
+.no-results {
+    font-weight: bold;
+}
