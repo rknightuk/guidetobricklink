@@ -1,7 +1,7 @@
 ---
-title: Buy Parts from a Wanted List
+title: Find the Store with the Most Parts
 layout: page
-permalink: /buy-parts-from-a-wanted-list
+permalink: /find-store-with-the-most-parts-wanted-list
 type: guide
 ---
 

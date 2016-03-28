@@ -31,7 +31,7 @@ A part on a wanted list has four data points to it:
 If you want to find only <kbd>some</kbd> of the part in a list, you can check the <kbd>Query Shops</kbd> checkbox and press <kbd>Submit Changes</kbd> to show a list of stores that have those specific parts.
 
 <div class="alert alert-warning"> 
-If you want to find a store with the most parts from a wanted list, check out the <a class="alert-link" href="/buy-parts-from-a-wanted-list">buy everything from a wanted list guide</a>.
+If you want to find a store with the most parts from a wanted list, check out the <a class="alert-link" href="/find-store-with-the-most-parts-wanted-list">buy everything from a wanted list guide</a>.
 </div>
 
 ## Creating and deleting
@@ -80,6 +80,6 @@ You can move or delete parts en masse by checking the relevant box at the top of
     url="assets/images/wanted-editing-parts.jpg"
 %}
 
-<span class="label label-next">Next:</span> <a href="/buy-parts-from-a-wanted-list">How to Buy Everything from a Wanted List</a>
+<span class="label label-next">Next:</span> <a href="/find-store-with-the-most-parts-wanted-list">How to Buy Everything from a Wanted List</a>
 
 

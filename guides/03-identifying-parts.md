@@ -91,4 +91,4 @@ If you know the theme a minifigure is from, go to [Catalog > View](http://www.br
 
 <span class="label label-next">Next:</span> <a href="wanted-lists">How to manage wanted lists</a>
 
-<span class="label label-next">Next:</span> Identified the parts you want to buy? Use our <a href="buy-parts-from-a-wanted-list">buying guide</a> to find the best store to purchase them from.
+<span class="label label-next">Next:</span> Identified the parts you want to buy? Use our <a href="find-store-with-the-most-parts-wanted-list">buying guide</a> to find the best store to purchase them from.
