@@ -9,7 +9,7 @@ type: guide
 {:toc}
 
 <div class="alert alert-warning"> 
-To get an idea of how much a set will cost you to part out, go to <a class="alert-link" href="http://www.bricklink.com/catalogPG.asp">Catalog > Price Guide</a> and use the "Part Out Value" form on the left. Enter a set number, choose new or used parts, and select which extras to include (instructions, box, extra parts).
+To get an idea of how much a set will cost you to part out, go to <a class="alert-link" href="http://www.bricklink.com/catalogPG.asp">Catalog > Price Guide</a> and use the "Part Out Value" form on the right. Enter a set number, choose new or used parts, and select which extras to include (instructions, box, extra parts).
 </div>
 
 {% include image.html
