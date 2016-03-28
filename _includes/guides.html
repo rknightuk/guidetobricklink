@@ -1,0 +1,10 @@
+<p class="guide-search"><input type="text" placeholder="Search the guides" class="guide-search-input"></p>
+
+<div class="list-group guides">
+	{% for site_page in site.pages %}
+		{% if site_page.type == 'guide' %}
+			<a href="{{ site_page.url | prepend: site.baseurl }}" class="list-group-item guide-item">{{ site_page.title }}</a>
+		{% endif %}
+	{% endfor %}
+	<li class="list-group-item no-results" style="display: none;">No guides found. Something you think should be here? Let us know <a href="https://twitter.com/studshq" target="_blank">on Twitter</a></li>.
+</div>
