@@ -16,11 +16,7 @@ type: guide
 You can limit stores to specific countries or regions by going to <a class="alert-link" href="http://www.bricklink.com/wantedSettings.asp">Wanted > My Settings</a> and choosing a country or region.
 </div>
 
-To find stores with the most amount of parts from a wanted list, go to [Wanted > By Shop](http://www.bricklink.com/wantedShop.asp), choose your wanted list from the dropdown, set the <kbd>sort by</kbd> dropdown to <kbd>Lots (Unique)</kbd>, and press <kbd>go</kbd>. This will then show all stores that have the parts in the wanted list, in descending order. 
-
-<div class="alert alert-warning"> 
-It's worth noting that if you require two of a specific part and a store only has one, Bricklink won't reflect this in the sorted list.
-</div>
+To find stores with the most amount of parts from a wanted list, go to [Wanted > By Shop](http://www.bricklink.com/wantedShop.asp), choose your wanted list from the dropdown, set the <kbd>sort by</kbd> dropdown to <kbd>Lots (Unique)</kbd>, and press <kbd>go</kbd>. This will then show all stores that have the parts in the wanted list, in descending order. It's worth noting that if you require two of a specific part and a store only has one, Bricklink won't reflect this in the sorted list.
 
 In the example below, the first store has all but four of the parts needed to purchase everything in the wanted list. At this stage there are two options:
 
