@@ -23,7 +23,7 @@ A part on a wanted list has four data points to it:
 
 {% include image.html 
     title="Quantity and Remarks in a Store"
-    url="ximages/qty-and-remarks.jpg"
+    url="assets/images/qty-and-remarks.jpg"
 %}
 
 ## Finding Wanted List Parts in a Store
@@ -42,7 +42,7 @@ To delete a list, select the checkbox next to the list. To update the name, simp
 
 {% include image.html 
     title="Wanted List Form"
-    url="ximages/wanted-list-view.jpg"
+    url="assets/images/wanted-list-view.jpg"
 %}
 
 ## Adding Parts to a Wanted List
@@ -51,12 +51,12 @@ To add a part to your wanted list, go to the part's information page by searchin
 
 {% include image.html 
     title="Add to Wanted List"
-    url="ximages/add-to-wanted-list.jpg"
+    url="assets/images/add-to-wanted-list.jpg"
 %}
 
 {% include image.html 
     title="Add to Wanted List Form"
-    url="ximages/add-to-wanted-list-form.jpg"
+    url="assets/images/add-to-wanted-list-form.jpg"
 %}
 
 On the form, choose a colour (if you didn't choose one on the information page), the wanted list you want to add it to, add a quantity, any remarks you want to add, and then press <kbd>Add Item</kbd>.
@@ -77,7 +77,7 @@ You can move or delete parts en masse by checking the relevant box at the top of
 
 {% include image.html 
     title="Editing Parts in a Wanted List"
-    url="ximages/wanted-editing-parts.jpg"
+    url="assets/images/wanted-editing-parts.jpg"
 %}
 
 <span class="label label-next">Next:</span> <a href="/buy-parts-from-a-wanted-list">How to Buy Everything from a Wanted List</a>

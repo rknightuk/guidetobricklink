@@ -18,7 +18,7 @@ On the header section of a store, the amount of feedback a seller has is shown i
 
 {% include image.html
     title="Seller Feedback Profile"
-    url="ximages/seller-feedback-profile.jpg"
+    url="assets/images/seller-feedback-profile.jpg"
 %}
 
 <div class="alert alert-warning"> 

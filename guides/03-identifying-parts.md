@@ -13,7 +13,7 @@ When you've identified a part, you can find out price information by clicking on
 
 {%include image.html
     title="Part Price Guide"
-    url="ximages/part-price-guide.jpg"
+    url="assets/images/part-price-guide.jpg"
 %}
 
 ## Find Parts
@@ -31,7 +31,7 @@ If you know of a set that includes the part, search for that set on Bricklink an
 
 {%include image.html
     title="Set Details"
-    url="ximages/set-inventory.jpg"
+    url="assets/images/set-inventory.jpg"
 %}
 
 ### By Name or Description
@@ -40,14 +40,14 @@ Size is always a good place is start when trying to identify a peice. For exampl
 
 {%include image.html
     title="Part 4032"
-    url="ximages/lego-4032.png"
+    url="assets/images/lego-4032.png"
 %}
 
 If a part is printed, search by that as a keyword. For example, if a part is printed with a phone design, search for "phone" and the size of the part.
 
 {%include image.html
     title="Results for 'Phone 1x2'"
-    url="ximages/phone-1by2-results.jpg"
+    url="assets/images/phone-1by2-results.jpg"
 %}
 
 ### By Category
@@ -56,7 +56,7 @@ If you know the category of a part, go to [Catalog > View](http://www.bricklink.
 
 {%include image.html
     title="Modified Brick and Plate"
-    url="ximages/modifed-bricks-and-plates.jpg"
+    url="assets/images/modifed-bricks-and-plates.jpg"
 %}
 
 ### By Colour
@@ -77,7 +77,7 @@ The colour method listed above works for finding minifigures and by description 
 
 {%include image.html
     title="Minifigure 'TWN236'"
-    url="ximages/minifigure-scarf-jacket.jpg"
+    url="assets/images/minifigure-scarf-jacket.jpg"
 %}
 
 ### By Theme
@@ -86,7 +86,7 @@ If you know the theme a minifigure is from, go to [Catalog > View](http://www.br
 
 {%include image.html
     title="Minifigure Categories"
-    url="ximages/minifigure-search.jpg"
+    url="assets/images/minifigure-search.jpg"
 %}
 
 <span class="label label-next">Next:</span> <a href="wanted-lists">How to manage wanted lists</a>

@@ -16,19 +16,19 @@ You can also manage your favourite stores by going to <a class="alert-link" href
 
 {% include image.html
     title="Adding a Favourite Store"
-    url="ximages/favourite-stores.jpg"
+    url="assets/images/favourite-stores.jpg"
 %}
 
 By adding a store as a most or least favourite, a star will show next to the store in search results (see below). This allows you to easily find stores you like when trying to buy parts from a wanted list. Additionally, if you go to [Wanted > My Settings](http://www.bricklink.com/wantedSettings.asp) you can exclude your least favourite stores from showing up in search results.
 
 {% include image.html
     title="Favourite Star in Search Results"
-    url="ximages/favourite-in-search.jpg"
+    url="assets/images/favourite-in-search.jpg"
 %}
 
 {% include image.html
     title="Exclude least favourite stores"
-    url="ximages/wanted-list-settings.jpg"
+    url="assets/images/wanted-list-settings.jpg"
 %}
 
 <span class="label label-next">Next:</span> [Buying from a store](/buying-parts-from-a-store)

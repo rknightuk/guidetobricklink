@@ -16,7 +16,7 @@ Bricklink uses XML to mass upload a parts list; details on the correct formattin
 
 {% include image.html
     title="Verifying uploaded items"
-    url="ximages/upload-verify.jpg"
+    url="assets/images/upload-verify.jpg"
 %}
 
 This step is for confirming quantities, colours, and parts are correct. But unlike other part lists on Bricklink, this list cannot be edited. To edit the quantities before upload, the XML file needs to be edited and uploaded again (Note: quantities can be updated after upload). If the wanted list ID has been set for an item, it will be indicated on this page underneath each item. When everything is correct, clicking <kbd>upload file</kbd> will upload the parts to Bricklink.

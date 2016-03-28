@@ -29,7 +29,7 @@ In the example below, the first store has all but four of the parts needed to pu
 
 {% include image.html
     title="Wanted List by Shop"
-    url="ximages/wanted-list-by-shop.jpg"
+    url="assets/images/wanted-list-by-shop.jpg"
 %}
 
 ### With Brickficiency
@@ -46,7 +46,7 @@ Click on the name of the store and the store page will open, showing all of the 
 
 {% include image.html
     title="Store tabs and auto-fill tools"
-    url="ximages/old-wanted-list-page-for-store.jpg"
+    url="assets/images/old-wanted-list-page-for-store.jpg"
 %}
 
 <span class="label label-next">Next:</span> [Buying Parts from a Store](/buying-parts-from-a-store)

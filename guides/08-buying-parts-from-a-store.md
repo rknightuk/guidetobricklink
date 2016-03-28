@@ -20,7 +20,7 @@ Before checking out, click on the <kbd>Splash</kbd> tab at the top of that page;
 
 {% include image.html
     title="Wanted list dropdown"
-    url="ximages/old-wanted-list-selector.jpg"
+    url="assets/images/old-wanted-list-selector.jpg"
 %}
 
 {{TIP}} At this stage, some sellers have a option to request a quote. If a quote is requested the seller will send a quote for shipping for the parts, which can then be ordered at the quoted price. However, if someone else buys those parts before a quote is accepted, they will no longer be available. A seller is under no obligation to hold a quoted order for you.

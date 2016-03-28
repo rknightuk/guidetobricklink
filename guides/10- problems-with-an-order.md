@@ -12,7 +12,7 @@ If you have a problem with an order, the first step should always be to contact 
 
 {% include image.html
     title="Order problem form"
-    url="ximages/problem-order.jpg"
+    url="assets/images/problem-order.jpg"
 %}
 
 <div class="alert alert-warning"> 

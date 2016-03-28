@@ -39,7 +39,7 @@ What method the order is shipped by is different for each seller. The method wil
 If you check can't check the contents of the order immediately, it's polite to change the order status to `received`, using the dropdown on the [orders placed page](http://www.bricklink.com/orderPlaced.asp). Once you have checked the order is correct, you can then leave feedback for the seller and marked the order as `completed`. Although leaving feedback is optional, doing so helps the rest of the Bricklink community find good sellers; to leave feedback, click <kbd>Post</kbd> under the feedback column on the orders placed page.
 
 {% include image.html
-    url="ximages/orders-placed.jpg"
+    url="assets/images/orders-placed.jpg"
     title="Orders Placed" 
 %}
 
@@ -47,7 +47,7 @@ Once feedback has been left and you, as the buyer, are happy with everything, yo
 
 {% include image.html
     title="Buyer Feedback"
-    url="ximages/buyer-feedback.jpg"
+    url="assets/images/buyer-feedback.jpg"
 %}
 
 <div class="alert alert-warning"> 
