@@ -1,40 +1,38 @@
 </div>
 
-<footer class="site-footer">
+<footer>
+	<div class="wrapper row">
+		<div class="col-md-6">
+			<strong>Guides</strong>
+			<ul>
+				{% for site_page in site.pages %}
+				  {% if site_page.type == 'guide' %}
+				    <li><a href="{{ site_page.url | prepend: site.baseurl }}">{{ site_page.title }}</a></li>
+				  {% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="col-md-6">
+			<strong>More</strong>
+			<ul>
+				<li><a href="/home">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/disclaimers">Disclaimers</a></li>
+			</ul>
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+			<strong>Twitter</strong>
+			<ul>
+				<li><a href="https://twitter.com/rmlewisuk">@rmlewisuk</a></li>
+				<li><a href="https://twitter.com/studshq">@StudsHQ</a></li>
+			</ul>
+		</div>
     </div>
-
-  </div>
-
+    <div class="info">
+	    <p>&copy Guide to Bricklink 2016<br>
+	    Guide to Bricklink is a project by <a href="http://studs.me">Studs.me</a> and <a href="http://robblewis.me">Robb Lewis</a><br>
+	    <em>This is site is not affilated, nor endorsed, by Bricklink.</em></p>
+    </div>
 </footer>
+
+<script src="{{ "/assets/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>

@@ -1,4 +1,14 @@
-## Look at the Seller's Feedback
+---
+title: Trustworthy Sellers
+layout: page
+permalink: /trustworthy-sellers
+type: guide
+---
+
+* TOC
+{:toc}
+
+## By Feedback
 
 <div class="alert alert-warning"> 
 For anyone who's used eBay, Bricklink's feedback feature will be familiar: a seller is given a percentage rating based on the number of positive ratings compared to negative. Unlike eBay however, a seller's rating on Bricklink is calculated over all the feedback they've ever received; a seller who received one negative feedback three years ago, will never be able to have 100% rating.
@@ -11,10 +21,14 @@ On the header section of a store, the amount of feedback a seller has is shown i
     url="ximages/seller-feedback-profile.jpg"
 %}
 
+<div class="alert alert-warning"> 
+A seller's feedback profile can be accessed from anywhere a seller's username or store name is shown by clicking on the number in brackets next to thier name.
+</div>
+
 ## Other factors
 
-Bricklink, like any marketplace, is susceptable to scammers. One of the most common scams on Bricklink usually involves setting up a store with a large amount of desirable parts, minifigures, or sets at lower prices than average. Once they have received a few big orders (or lots of small orders), they lock their store with a message claiming they've had a family emergency or similar and say they will process the orders soon. So if a store seems to good to be true, it probably is.
+Bricklink, like any marketplace, is susceptable to scammers. One of the more common scams on Bricklink usually involves setting up a store with a large amount of desirable parts, minifigures, or sets with prices much lower than average. Once they have received a few big orders (or lots of small orders), they usually lock their store with a message claiming they've had a family emergency or similar and say they will process the orders soon. So if a store seems to good to be true, it probably is.
 
-<div class="alert alert-warning"> 
 As with any feedback system, personal judgement should be used; if you're uneasy using a particular seller for whatever reason, consider finding a seller you are more confortable with.
-</div>
+
+<span class="label label-next">Next:</span> Now you know if a seller is trustworthy, check out the [how to buy from a store guide](/buying-parts-from-a-store).

@@ -1,21 +1,15 @@
-<header class="site-header">
+<header class="main">
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <p class="site-title">{{ site.title }}</p>
 
-    <nav class="site-nav">
-      <div class="trigger">
-        {% for site_page in site.pages %}
-          {% if site_page.title %}
-          <a class="page-link" href="{{ site_page.url | prepend: site.baseurl }}">{{ site_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
+    <p><em>The complete guide to everything Bricklink related</em></p>
 
   </div>
-
+  
 </header>
+
+{% include nav.html %}
 
 <div class="container">

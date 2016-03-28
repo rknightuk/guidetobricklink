@@ -2,15 +2,17 @@
 title: How Bricklink Works
 layout: page
 permalink: /how-bricklink-works
-pages:
-    - { title: '', link: '' }
+type: guide
 ---
 
-Bricklink, like eBay, is made up of multiple sellers and stores; when an order is placed, the agreement is between the buyer and the idividual seller. The basic process is as follows:
+* TOC
+{:toc}
 
 <div class="alert alert-warning"> 
 The most common statuses for an order are: `processing`, `ready`, `packed`, `shipped`, `recieved`, and `completed`. There are a large number of other statuses that an order can have, which are explained on <a class="alert-link" href="http://www.bricklink.com/help.asp?helpID=41">this order status help page</a>.
 </div>
+
+Bricklink, like eBay, is made up of multiple sellers and stores; when an order is placed, the agreement is between the buyer and the idividual seller. The basic process is as follows:
 
 ### 1. Buyer places an order
  
@@ -54,6 +56,6 @@ Some sellers will offer a coupon, to use on your next order, for leaving feedbac
 
 This process is mostly the same as eBay, with the minor difference that the buyer doesn't pay at checkout but rather waits until an invoice is sent. This can be daunting for a first-time Bricklink user, but bear in mind Bricklink has been running successfully since 2000.
 
-{{PAGE}} Read the [trustworthy sellers guide](/trustworthy-sellers) to find out how feedback works on Bricklink and how to choose sellers to buy from.
+<span class="label label-next">Next:</span> Read the [trustworthy sellers guide](/trustworthy-sellers) to find out how feedback works on Bricklink and how to choose sellers to buy from.
 
-{{PAGE}} Bricklink is also a catalog of every Lego piece ever made. View the [identifying parts guide](/identifying-parts) to find out how to browse the Bricklink catalog.
+<span class="label label-next">Next:</span> Bricklink is also a catalog of every Lego piece ever made. View the [identifying parts guide](/how-to-identify-parts) to find out how to browse the Bricklink catalog.
