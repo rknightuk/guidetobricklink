@@ -31,7 +31,7 @@ To part out a set, go to [Wanted > Part Set](http://www.bricklink.com/wantedSet.
 
 The next step allows for changing quantities, deleting parts you don't want to add, and adding remarks to specific parts; the final step is for confirming the parts you are going to add to the list. Once you're happy, press <kbd>Verify Items</kbd>, double check the list on the next page, and press <kbd>Upload Items</kbd>; the items will now be added to your wanted list.
 
-<span class="label label-next">Next:</span> How to [buy parts from a wanted list](/find-a-store-wanted-list)
+<span class="label label-next">Next:</span> How to [buy parts from a wanted list](/find-store-with-the-most-parts-wanted-list)
 
 
 
