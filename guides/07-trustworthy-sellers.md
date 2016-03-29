@@ -16,6 +16,8 @@ For anyone who's used eBay, Bricklink's feedback feature will be familiar: a sel
 
 On the header section of a store, the amount of feedback a seller has is shown in brackets, along with a summary of thier feedback. Clicking on either the number or the summary will show their feedback profile. The first table on this page shows a count for each type of feedback for the last week, month, year, and all time. To the right of that is the breakdown of feedback based on if the seller was a buyer or a seller (Bricklink sellers can but from other sellers, just like any other account). The most recent feedback is shown below that.
 
+Although the overall score is a good indicator, it's always worth checking recent feedback as well; if a seller makes changes how they run their store to the detriment of customer satisfaction, their recent feedback will reflect this but the overall score won't.
+
 {% include image.html
     title="Seller Feedback Profile"
     url="assets/images/seller-feedback-profile.jpg"
