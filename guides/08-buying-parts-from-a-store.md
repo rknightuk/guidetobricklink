@@ -3,12 +3,13 @@ title: Buying Parts from a Store
 layout: page
 permalink: /buying-parts-from-a-store
 type: guide
+excerpt: "If you haven't already, read how to know if a seller is trustworthy. tl;dr: Look for sellers with a high percentage of positive feedback."
 ---
 
 * TOC
 {:toc}
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 If you haven't already, read <a class="alert-link" href="/buying-parts-from-a-wanted-list">how to know if a seller is trustworthy</a>. tl;dr: Look for sellers with a high percentage of positive feedback.
 </div>
 
@@ -27,13 +28,8 @@ Before checking out, click on the <kbd>Splash</kbd> tab at the top of that page;
 
 When you're happy with the items in your shopping cart, click <kbd>Checkout</kbd> at the top of the sidebar, and then click <kbd>Proceed to Checkout</kbd>. On this page, sellers will list all the currencies and payment methods they accept for you to choose from. Some sellers will also have postage options to choose from. A note an be added to an order which the seller will see when they are notified about the order. Finally, the sellers terms will be shown here, which should be reviewed before pressing <kbd>Complete Purchase</kbd>.
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 Once a purchase is complete, clicking on <kbd>Modify Items in Wanted List</kbd> will show you all the parts from the order that are in a wanted list. This allows you to delete order parts from the list so you don't accidently order duplicates in subsequent orders. This can also be done at any time by going to <a class="alert-link" href="https://www.bricklink.com/wantedDetail.asp?orderID=12345">https://www.bricklink.com/wantedDetail.asp?orderID=12345</a> replacing `12345` with the order number.
 </div>
 
 <span class="label label-next">Next:</span> Read [How Bricklink Works](/how-bricklink-works) to understand what happens once an order has been placed.
-
-
-
-
-

@@ -3,6 +3,7 @@ title: Create a Bricklink Account
 layout: page
 permalink: /create-a-bricklink-account
 type: guide
+excerpt: "To create a Bricklink account, go to the registration page and select New Member Registration."
 ---
 
 To create a Bricklink account, go to [the registration page](https://www.bricklink.com/regLogin.asp) and select <kbd>New Member Registration</kbd>. Choose a username and password, fill in your details on the form, choose which currency you wish to see across the Bricklink site, and press <kbd>Submit Registration</kbd>.

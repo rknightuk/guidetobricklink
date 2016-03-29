@@ -3,11 +3,12 @@ title: How to Identify Parts
 layout: page
 permalink: /how-to-identify-parts
 type: guide
+excerpt: "Finding parts in the Bricklink catalog can be daunting, but there are a number of ways to identify and find parts on Bricklink."
 ---
 
 Finding parts in the Bricklink catalog can be daunting, but there are a number of ways to identify and find parts on Bricklink.
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 When you've identified a part, you can find out price information by clicking on the <kbd>Price Guide</kbd> tab below the part information and selecting a colour (if you haven't already). This will show you prices for new and used versions of the part over the last six months, and the current items for sale on BrickLink.
 </div>
 

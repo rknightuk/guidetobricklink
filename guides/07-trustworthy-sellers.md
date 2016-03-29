@@ -3,6 +3,7 @@ title: Trustworthy Sellers
 layout: page
 permalink: /trustworthy-sellers
 type: guide
+excerpt: "For anyone who's used eBay, Bricklink's feedback feature will be familiar: a seller is given a percentage rating based on the number of positive ratings compared to negative."
 ---
 
 * TOC
@@ -10,7 +11,7 @@ type: guide
 
 ## By Feedback
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 For anyone who's used eBay, Bricklink's feedback feature will be familiar: a seller is given a percentage rating based on the number of positive ratings compared to negative. Unlike eBay however, a seller's rating on Bricklink is calculated over all the feedback they've ever received; a seller who received one negative feedback three years ago, will never be able to have 100% rating.
 </div>
 
@@ -23,7 +24,7 @@ Although the overall score is a good indicator, it's always worth checking recen
     url="assets/images/seller-feedback-profile.jpg"
 %}
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 A seller's feedback profile can be accessed from anywhere a seller's username or store name is shown by clicking on the number in brackets next to thier name.
 </div>
 

@@ -2,6 +2,7 @@
 layout: page
 title: More Resources
 permalink: /more-resources
+excerpt: "Additional useful links."
 ---
 
 ## Bricklink

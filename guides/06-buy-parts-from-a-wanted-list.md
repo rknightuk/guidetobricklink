@@ -3,6 +3,7 @@ title: Find the Store with the Most Parts
 layout: page
 permalink: /find-store-with-the-most-parts-wanted-list
 type: guide
+excerpt: "You can limit stores to specific countries or regions by going to Wanted > My Settings and choosing a country or region."
 ---
 
 * TOC
@@ -12,7 +13,7 @@ type: guide
 
 ### The Manual Way
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 You can limit stores to specific countries or regions by going to <a class="alert-link" href="http://www.bricklink.com/wantedSettings.asp">Wanted > My Settings</a> and choosing a country or region.
 </div>
 
@@ -34,7 +35,7 @@ In the example below, the first store has all but four of the parts needed to pu
 
 ## Adding parts to your shopping cart
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 If you haven't already, read <a class="alert-link" href="/trustworthy-sellers">how to know if a seller is trustworthy</a>. tl;dr: Look for sellers with a high percentage of positive feedback.
 </div>
 

@@ -2,11 +2,12 @@
 title: Guide to Bricklink
 layout: default
 permalink: /index.html
+excerpt: "Bricklink is a marketplace for buying individual Lego pieces, minifigures, and sets."
 ---
 
 ## What is Bricklink?
 
-[Bricklink](http://bricklink.com) is a marketplace for buying individual Lego pieces, minifigures, and sets. Bricklink has nearly 10,000 stores in over 70 countries, and thier catalog contains over 9 million items for sale.
+[Bricklink](http://bricklink.com) is a marketplace for buying individual Lego pieces, minifigures, and sets. Bricklink has nearly 10,000 stores in over 70 countries, and their catalog contains over 9 million items for sale.
 
 ## Why does this site exist?
 

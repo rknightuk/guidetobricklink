@@ -3,6 +3,7 @@ title: Problems with an Order
 layout: page
 permalink: /problems-with-an-order
 type: guide
+excerpt: "If you have a problem with an order, the first step should always be to contact the seller."
 ---
 
 * TOC
@@ -15,7 +16,7 @@ If you have a problem with an order, the first step should always be to contact 
     url="assets/images/problem-order.jpg"
 %}
 
-<div class="alert alert-warning"> 
+<div class="alert alert-warning">
 Be patient when waiting for a response from a seller; many sellers run stores in their spare time so won't always respond immediately.
 </div>
 
