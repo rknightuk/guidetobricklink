@@ -18,7 +18,7 @@ To get an idea of how much a set will cost you to part out, go to <a class="aler
     url="assets/images/part-out-value.jpg"
 %}
 
-To part out a set, go to [Wanted > Part Set](http://www.bricklink.com/wantedSet.asp), and input the set number. A number of options are available here such as including minifigures and instructions, as well as adding the parts to an existing or new wanted list. It recommended to check the box <kbd>Set My Minimum Desired Qty for each Item to Qty of Items in Inventory</kbd> so that the required quantity will be added to the parts. Default remarks will set that remark for each item — this is particularly useful if you want to add the parts to a list which already has parts in it.
+To part out a set, go to [Wanted > Part Set](http://www.bricklink.com/wantedSet.asp), and input the set number. A number of options are available here such as including minifigures and instructions, as well as adding the parts to an existing or new wanted list. It is recommended to check the box <kbd>Set My Minimum Desired Qty for each Item to Qty of Items in Inventory</kbd> so that the required quantity will be added to the parts. Default remarks will set that remark for each item — this is particularly useful if you want to add the parts to a list which already has parts in it.
 
 {% include image.html
     title="Part Out Set Form"

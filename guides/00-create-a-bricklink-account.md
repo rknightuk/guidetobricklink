@@ -16,7 +16,7 @@ A confirmation number will be emailed to you; input that number on the next page
 %}
 
 <div class="alert alert-warning">
-If you didn't receieve your confirmation email, check your spam folder. Otherwise, you can fill in your username and password and click <kdb>Resend me my confirmation number</kdb>.
+If you didn't receive your confirmation email, check your spam folder. Otherwise, you can fill in your username and password and click <kdb>Resend me my confirmation number</kdb>.
 </div>
 
 <span class="label label-next">Next:</span> Learn about [How Bricklink Works](/how-bricklink-works), [how to manage wanted list](/manage-wanted-lists), or [how to identify parts](/how-to-identify-parts).

@@ -23,7 +23,7 @@ When you've identified a part, you can find out price information by clicking on
 
 If you already have one the parts you want to order, the part number can be found in a couple of different ways:
 
-- Printed on the part: Many lego parts have the element or design ID printed on them (albiet really small). For example, tires generally have the part number printed on the side.
+- Printed on the part: Many Lego parts have the element or design ID printed on them (albeit really small). For example, tires generally have the part number printed on the side.
 - Instruction manuals: Most recent instruction manuals have a list of parts and their design ID in the back pages
 
 ### By Set
@@ -37,7 +37,7 @@ If you know of a set that includes the part, search for that set on Bricklink an
 
 ### By Name or Description
 
-Size is always a good place is start when trying to identify a peice. For example, the piece below is 2 studs by 2 studs in size, and round. Search for `2x2 round` on Bricklink will return a number of results, and about halfway down the list is this part.
+Size is always a good place is start when trying to identify a piece. For example, the piece below is 2 studs by 2 studs in size, and round. Search for `2x2 round` on Bricklink will return a number of results, and about halfway down the list is this part.
 
 {%include image.html
     title="Part 4032"
@@ -83,7 +83,7 @@ The colour method listed above works for finding minifigures and by description 
 
 ### By Theme
 
-If you know the theme a minifigure is from, go to [Catalog > View](http://www.bricklink.com/catalog.asp) and choose the category from the dropdown. Some themes, like Star Wars or Superheroes, have multiple themes associated with them, so you may need to go through a few different searches to find the minifgure you're looking for.
+If you know the theme a minifigure is from, go to [Catalog > View](http://www.bricklink.com/catalog.asp) and choose the category from the dropdown. Some themes, like Star Wars or Superheroes, have multiple themes associated with them, so you may need to go through a few different searches to find the minifigure you're looking for.
 
 {%include image.html
     title="Minifigure Categories"

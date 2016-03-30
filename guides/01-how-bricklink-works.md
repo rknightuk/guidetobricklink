@@ -13,7 +13,7 @@ excerpt: "The most common statuses for an order are: processing, ready, packed, 
 The most common statuses for an order are: `processing`, `ready`, `packed`, `shipped`, `received`, and `completed`. There are a large number of other statuses that an order can have, which are explained on <a class="alert-link" href="http://www.bricklink.com/help.asp?helpID=41">this order status help page</a>.
 </div>
 
-Bricklink, like eBay, is made up of multiple sellers and stores; when an order is placed, the agreement is between the buyer and the idividual seller. The basic process is as follows:
+Bricklink, like eBay, is made up of multiple sellers and stores; when an order is placed, the agreement is between the buyer and the individual seller. The basic process is as follows:
 
 ### 1. Buyer places an order
 

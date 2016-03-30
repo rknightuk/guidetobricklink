@@ -62,7 +62,7 @@ To add a part to your wanted list, go to the part's information page by searchin
 
 On the form, choose a colour (if you didn't choose one on the information page), the wanted list you want to add it to, add a quantity, any remarks you want to add, and then press <kbd>Add Item</kbd>.
 
-From this form, you can check the <kbd>Notify Me by Email</kbd> checkbox, in conjuction with the two checkboxes above, to receive an email when that part becomes available in any store.
+From this form, you can check the <kbd>Notify Me by Email</kbd> checkbox, in conjunction with the two checkboxes above, to receive an email when that part becomes available in any store.
 
 <div class="alert alert-warning">
 This form is also available by going to <a class="alert-link" href="http://www.bricklink.com/wantedAdd.asp">Wanted > Add Item</a> and choosing a category. However, I have found this method much more tedious than using the search.

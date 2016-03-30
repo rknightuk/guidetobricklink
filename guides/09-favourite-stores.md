@@ -9,7 +9,7 @@ excerpt: "Bricklink allows you to add notes to a store and set them as your most
 * TOC
 {:toc}
 
-Bricklink allows you to add notes to a store and set them as your most or least favourite seller. To do this, go to a store's page and click <kbd>Add to My Favourite Stores</kbd>. Then choose most or least favourite, or subscribed from the dropdown, add any comments you want, and click <kbd>Add Store</kbd>. Here you can choose to subcribe to a store announcements, (although in my experience most stores don't use this feature) by checking the <kbd>I want to receive announcements from this store</kbd> option.
+Bricklink allows you to add notes to a store and set them as your most or least favourite seller. To do this, go to a store's page and click <kbd>Add to My Favourite Stores</kbd>. Then choose most or least favourite, or subscribed from the dropdown, add any comments you want, and click <kbd>Add Store</kbd>. Here you can choose to subscribe to a store announcements, (although in my experience most stores don't use this feature) by checking the <kbd>I want to receive announcements from this store</kbd> option.
 
 <div class="alert alert-warning">
 You can also manage your favourite stores by going to <a class="alert-link" href="http://www.bricklink.com/pref_favorite.asp">Buy > My Favourites</a>.
