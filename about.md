@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+excerpt: "Guide to Bricklink aims to be the ultimate guide to buying from Bricklink. To get started, check out the list of guides on the home page."
 ---
 
 ## What?
@@ -15,7 +16,3 @@ A least once a day, a question is asked on [/r/lego](https://www.reddit.com/r/le
 ## Who?
 
 Guide to Bricklink is written by <a href="http://robblewis.me">Robb Lewis</a>, who also runs the <a href="http://studs.me">Studs.me blog</a>. Rich data markup for SEO, Twitter, and Facebook was contributed by <a href="https://darn.es/">David Darnes</a>.
-
-
-
-
