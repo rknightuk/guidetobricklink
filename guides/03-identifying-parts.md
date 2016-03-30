@@ -71,7 +71,7 @@ If all of the above haven't worked, searching by colour can also work. Select th
 The colour method listed above works for finding minifigures and by description can also be useful; the minifigure below can be found by the following keywords (individually or combined):
 
 - `jacket`
-- `gray`
+- `grey`
 - `scarf`
 - `magenta`
 - `blue`
