@@ -68,8 +68,10 @@ header .main {
 }
 
 .sidebar img {
-    margin-bottom: 10px;
+    display: block;
     max-width: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
 }
 
 footer {

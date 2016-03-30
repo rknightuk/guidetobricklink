@@ -1,5 +1,6 @@
 $(function(){
 
+	// Guide filter
 	$('.guide-search-input').keyup(function(e){
 		if ($('.no-results').is(':visible')) {
 			$('.no-results').hide();
@@ -17,5 +18,9 @@ $(function(){
 			$('.no-results').show();
 		}
     });
+
+	$('.sidebar a').on('click', function(e) {
+		_gs('event', 'MFStore Affiliate ' + $(e.currentTarget).data('name'));
+	});
 
 });
