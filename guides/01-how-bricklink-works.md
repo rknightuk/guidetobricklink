@@ -17,7 +17,7 @@ Bricklink, like eBay, is made up of multiple sellers and stores; when an order i
 
 ### 1. Buyer places an order
 
-The seller will be notified an order has been place. Go to [Orders > Placed](http://www.bricklink.com/orderPlaced.asp) to view outstanding orders. The status of the order will change to `processing` when the seller has acknowledged the order (not all sellers will use this status).
+The seller will be notified an order has been placed. Go to [Orders > Placed](http://www.bricklink.com/orderPlaced.asp) to view outstanding orders. The status of the order will change to `processing` when the seller has acknowledged the order (not all sellers will use this status).
 
 ### 2. Seller sends an invoice
 
@@ -37,14 +37,14 @@ What method the order is shipped by is different for each seller. The method wil
 
 ### 5. Buyer receives order
 
-If you check can't check the contents of the order immediately, it's polite to change the order status to `received`, using the dropdown on the [orders placed page](http://www.bricklink.com/orderPlaced.asp). Once you have checked the order is correct, you can then leave feedback for the seller and marked the order as `completed`. Although leaving feedback is optional, doing so helps the rest of the Bricklink community find good sellers; to leave feedback, click <kbd>Post</kbd> under the feedback column on the orders placed page.
+If you can't check the contents of the order immediately, it's polite to change the order status to `received`, using the dropdown on the [orders placed page](http://www.bricklink.com/orderPlaced.asp). Once you have checked the order is correct, you can then leave feedback for the seller and mark the order as `completed`. Although leaving feedback is optional, doing so helps the rest of the Bricklink community find good sellers; to leave feedback, click <kbd>Post</kbd> under the feedback column on the orders placed page.
 
 {% include image.html
     url="assets/images/orders-placed.jpg"
     title="Orders Placed"
 %}
 
-Once feedback has been left and you, as the buyer, are happy with everything, you can check the <kbd>File</kbd> checkbox and click <kbd>Submit Changes</kbd> to hide the order. Files orders are accessible for 6 months from the <kbd>Filed</kbd> link at the top of the orders placed page. This list will also show, with a green triangle, if the buyer has left feedback for you. To view your own feedback, go to [MyBrickLink](http://www.bricklink.com/my.asp) and click on the number next to your username.
+Once feedback has been left and you, as the buyer, are happy with everything, you can check the <kbd>File</kbd> checkbox and click <kbd>Submit Changes</kbd> to hide the order. Filed orders are accessible for 6 months from the <kbd>Filed</kbd> link at the top of the orders placed page. This list will also show, with a green triangle, if the buyer has left feedback for you. To view your own feedback, go to [MyBrickLink](http://www.bricklink.com/my.asp) and click on the number next to your username.
 
 {% include image.html
     title="Buyer Feedback"
