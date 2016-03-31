@@ -29,6 +29,8 @@ The buyer is notified that the order is ready to be paid and pays it via the cho
 
 <div class="alert alert-warning">
 There are a number of payment methods available for sellers to accept (cash, cheque, PayPal). PayPal is recommended as this is the easiest way to open a dispute with a seller if there is a problem.
+
+When you pay for an order, you are paying the seller directly, and not Bricklink. This is why multiple payment methods are available.
 </div>
 
 ### 4. Seller posts order
