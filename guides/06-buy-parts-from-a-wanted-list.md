@@ -29,6 +29,10 @@ In the example below, the first store has all but four of the parts needed to pu
     url="assets/images/wanted-list-by-shop.jpg"
 %}
 
+If you want to find a store with the most parts from multiple wanted lists, click <kbd>Show Multiple Selections</kbd> in the top right; you can then select multiple wanted lists to query from.
+
+To find stores with a subset of parts from a wanted list, choose the wanted list from [Wanted > Wanted List](http://www.bricklink.com/wantedView.asp), click <kbd>edit only</kbd>, and check the boxes in the <kbd>Query Shops</kbd> column. Click <kbd>Submit Changes</kbd> and Bricklink will show the store list based only on the selected parts.
+
 ### With Brickficiency
 
 *Brickficiency guide coming soon*
