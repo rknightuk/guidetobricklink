@@ -48,9 +48,11 @@ figcaption {
 
 header.main {
     padding: 40px 10px 30px 10px;
-    background: #f27555;
+    background: #f27555; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #f27555 , #F45C43); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #f27555 , #F45C43); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     text-align: center;
-    color: #212121;
+    color: #ECF0F1;
 }
 
 header .wrapper {
@@ -59,8 +61,14 @@ header .wrapper {
 }
 
 .site-title {
-    font-size: 40px;
-    font-weight: bold;
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.site-description {
+    font-size: 110%;
 }
 
 header .main {
