@@ -28,4 +28,4 @@ excerpt: "Additional useful links."
 - [Amazon](http://amazon.co.uk)
     + Mostly for sets rather than separate minifigures, Amazon almost always have sets for lower than the retail price.
 - [Camel Camel Camel](http://uk.camelcamelcamel.com/)
-    +Use this site to set up alerts for when a set reaches a specific price point on Amazon.
+    + Use this site to set up alerts for when a set reaches a specific price point on Amazon.
