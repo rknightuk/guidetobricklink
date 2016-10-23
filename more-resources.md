@@ -14,8 +14,8 @@ excerpt: "Additional useful links."
 
 ## Other Guides
 
-- [Manage Your LEGO Collection with Brickset](http://studs.me/posts/manage-your-lego-collection-with-brickset)
-- [Saving Money on Lego in the UK](http://studs.me/posts/saving-money-on-lego-in-the-uk)
+- [Manage Your LEGO Collection with Brickset](http://studs.me/manage-your-lego-collection-with-brickset)
+- [Saving Money on Lego in the UK](http://studs.me/saving-money-on-lego-in-the-uk)
 
 ## Other places I buy from
 

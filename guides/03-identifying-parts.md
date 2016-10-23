@@ -53,7 +53,7 @@ If a part is printed, search by that as a keyword. For example, if a part is pri
 
 ### By Category
 
-If you know the category of a part, go to [Catalog > View](http://www.bricklink.com/catalog.asp), and choose the category from the <kbd>Parts</kbd> dropdown. You can also search with category, colour, year, and keywords from [Catalog > Search](http://www.bricklink.com/catalogSearch.asp). The parts shown below are in the [Brick, Modified](http://www.bricklink.com/catalogList.asp?catID=7) and [Plate, Modified](http://www.bricklink.com/catalogList.asp?catType=P&catID=27) categories, respectively.
+If you know the category of a part, go to [Shop > Parts](http://www.bricklink.com/catalog.asp), and choose the category from the <kbd>Parts</kbd> dropdown. You can also search with category, colour, year, and keywords from [Shop > Search](https://www.bricklink.com/catalogSearch.asp). The parts shown below are in the [Brick, Modified](http://www.bricklink.com/catalogList.asp?catID=7) and [Plate, Modified](http://www.bricklink.com/catalogList.asp?catType=P&catID=27) categories, respectively.
 
 {%include image.html
     title="Modified Brick and Plate"
@@ -62,7 +62,7 @@ If you know the category of a part, go to [Catalog > View](http://www.bricklink.
 
 ### By Colour
 
-If all of the above haven't worked, searching by colour can also work. Select the colour from the colour dropdown on [Catalog > Search](http://www.bricklink.com/catalogSearch.asp). This might seem overwhelming at first, as the results can be pretty long, but for a part that isn't one of the standard colours (white, black, red, etc) this method will ensure you'll find the part you're looking for. Choose <kbd>List with Images</kbd> or <kbd>Thumbnail Gallery</kbd> and this will show the results with images of the parts.
+If all of the above haven't worked, searching by colour can also work. Select the colour from the colour dropdown on [Shop > Search](https://www.bricklink.com/catalogSearch.asp). This might seem overwhelming at first, as the results can be pretty long, but for a part that isn't one of the standard colours (white, black, red, etc) this method will ensure you'll find the part you're looking for. Choose <kbd>List with Images</kbd> or <kbd>Thumbnail Gallery</kbd> and this will show the results with images of the parts.
 
 ## Find Minifigures
 
@@ -83,7 +83,7 @@ The colour method listed above works for finding minifigures and by description 
 
 ### By Theme
 
-If you know the theme a minifigure is from, go to [Catalog > View](http://www.bricklink.com/catalog.asp) and choose the category from the dropdown. Some themes, like Star Wars or Superheroes, have multiple themes associated with them, so you may need to go through a few different searches to find the minifigure you're looking for.
+If you know the theme a minifigure is from, go to [Shop > Search](https://www.bricklink.com/catalogSearch.asp) and choose the category from the dropdown. Some themes, like Star Wars or Superheroes, have multiple themes associated with them, so you may need to go through a few different searches to find the minifigure you're looking for.
 
 {%include image.html
     title="Minifigure Categories"

@@ -9,7 +9,7 @@ excerpt: "The best way to buy what you need from Bricklink is wanted lists. Want
 * TOC
 {:toc}
 
-The best way to buy what you need from Bricklink is wanted lists. Wanted lists are lists of parts, minifigures, sets and instructions that you want to buy. By default, a Bricklink account always has at least one wanted list; the "Main" wanted list.
+The best way to buy what you need from Bricklink is wanted lists. Wanted lists are lists of parts, minifigures, sets and instructions that you want to buy. By default, a Bricklink account always has at least one wanted list; the "Default" wanted list.
 
 <div class="alert alert-warning">
 Looking to create a wanted list from a set? Check out the <a class="alert-link" href="/find-a-store-wanted-list">Bricklinking a set guide</a>.
@@ -19,17 +19,17 @@ A part on a wanted list has four data points to it:
 
 - Condition: New, Used, or either.
 - Max price: The Maximum you are willing to pay for the part
-- Minimum quantity: The quantity you want of that specific part. This will show up next to the part in a store.
+- Wanted quantity: The quantity you want of that specific part. This will show up next to the part in a store.
 - Remarks: Remarks are a note that shows up when looking at which parts a store has from your wanted list.
 
 {% include image.html
-    title="Quantity and Remarks in a Store"
+    title="Wanted item details"
     url="assets/images/qty-and-remarks.jpg"
 %}
 
 ## Finding Wanted List Parts in a Store
 
-If you want to find only <kbd>some</kbd> of the part in a list, you can check the <kbd>Query Shops</kbd> checkbox and press <kbd>Submit Changes</kbd> to show a list of stores that have those specific parts.
+If you want to find only *some* of the part in a list, on the [wanted list page](http://www.bricklink.com/wantedView.asp), you can check the checkbox to the left of an item and press <kbd>Buy X Selected</kbd> to show a list of stores that have those specific parts.
 
 <div class="alert alert-warning">
 If you want to find a store with the most parts from a wanted list, check out the <a class="alert-link" href="/find-store-with-the-most-parts-wanted-list">buy everything from a wanted list guide</a>.
@@ -37,13 +37,16 @@ If you want to find a store with the most parts from a wanted list, check out th
 
 ## Creating and deleting
 
-To create a wanted list go to [Wanted > My Wanted List](http://www.bricklink.com/wantedView.asp), add a wanted list name in the form on the right and click <kbd>Add New Wanted List</kbd>.
-
-To delete a list, select the checkbox next to the list. To update the name, simply change the name in the input box. After either of these actions press <kbd>Submit changes</kbd>. Deleting a wanted list cannot be undone.
+To create a wanted list go to [Want > My Wanted List](https://www.bricklink.com/v2/wanted/list.page) from the top navigation bar, click <kbd>+ Create New Wanted List</kbd> and choose a name and optional description. To delete a list, select <kbd>Delete</kbd> next to the list on the wanted list page.
 
 {% include image.html
-    title="Wanted List Form"
-    url="assets/images/wanted-list-view.jpg"
+    title="Create a wanted list"
+    url="assets/images/create-a-wanted-list.jpg"
+%}
+
+{% include image.html
+    title="Wanted List Options"
+    url="assets/images/wanted-list-edit.jpg"
 %}
 
 ## Adding Parts to a Wanted List
@@ -60,24 +63,20 @@ To add a part to your wanted list, go to the part's information page by searchin
     url="assets/images/add-to-wanted-list-form.jpg"
 %}
 
-On the form, choose a colour (if you didn't choose one on the information page), the wanted list you want to add it to, add a quantity, any remarks you want to add, and then press <kbd>Add Item</kbd>.
-
-From this form, you can check the <kbd>Notify Me by Email</kbd> checkbox, in conjunction with the two checkboxes above, to receive an email when that part becomes available in any store.
+On the form, choose a wanted list from the left hand side, colour (if you didn't choose one on the information page), add a quantity, any remarks you want to add, if you want to be notified by email when the part is available, and then press <kbd>Add to Wanted List</kbd>.
 
 <div class="alert alert-warning">
-This form is also available by going to <a class="alert-link" href="http://www.bricklink.com/wantedAdd.asp">Wanted > Add Item</a> and choosing a category. However, I have found this method much more tedious than using the search.
+This form is also available by navigating to a wanted list and selected <kbd>Add Item</kbd> However, I have found this method much more tedious than using the search.
 </div>
 
 ## Moving, Deleting and Updating parts
 
-Go to [Wanted > My Wanted List](http://www.bricklink.com/wantedView.asp) and you'll see a list of categories for all the parts in your wanted list. To update or delete the parts, press <kbd>Edit Only</kbd> or <kbd>Show All</kbd> and this will show all the parts. From here, you can update remarks, condition, price and quantity, as well as moving them to another list or deleting them.
+Go to [Want > Wanted List](https://www.bricklink.com/v2/wanted/list.page) and you'll see a list of categories for all the parts in your wanted list on the left, and all of your lists on the right. Either select a category or click on a wanted list to view the items you've added. From here you can update remarks, quantities or delete items.
 
-To delete a part, select the checkbox underneath the delete column next to the part, and press <kbd>Submit Changes</kbd>. To move a part, follow the same process but with the <kbd>Move</kbd> column, choose wanted list to move it to, and press <kbd>Submit Changes</kbd>.
-
-You can move or delete parts en masse by checking the relevant box at the top of the table, which will select all parts in the list.
+To manage multiple parts, use the checkboxes next to each item and then use the top menu to move, copy, or delete parts. You can also sort lists by color, condition, price, quantity, or remark using the filters at the top.
 
 {% include image.html
-    title="Editing Parts in a Wanted List"
+    title="Managing Parts in a Wanted List"
     url="assets/images/wanted-editing-parts.jpg"
 %}
 
